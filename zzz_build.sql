@@ -1,7 +1,3 @@
--- another one!
--- Editing again!
--- lost?
--- added comment for test
 drop table zzz_log purge;
 
 create table zzz_log
