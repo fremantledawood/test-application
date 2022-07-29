@@ -1,3 +1,4 @@
+-- A new comment that is more descriptive
 drop table zzz_log purge;
 
 create table zzz_log
